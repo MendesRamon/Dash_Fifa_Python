@@ -1,6 +1,6 @@
 # Dash_Fifa_Python
 
-#####Dashboard desenvolvido em Python com o uso da biblioteca *Streamlit*.
+##### Dashboard desenvolvido em Python com o uso da biblioteca *Streamlit*.
 
 O projeto foi desenvolvido totalmente na linguagem Python, sendo possível rodar enviando o comando *streamlit run 1_🏠_home.py* no terminal.
 
@@ -10,8 +10,8 @@ Este projeto apresenta três telas:
 
 2.Jogadores
 
-
 3.Equipes
+
 
 Na página *Home* é comentado brevemente sobre a base de dados utilizados. Tendo também, o link para a página de onde foi estraído os datasets.
 

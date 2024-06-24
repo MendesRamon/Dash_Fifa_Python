@@ -1,5 +1,7 @@
 # Dash_Fifa_Python
 
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 ##### Dashboard desenvolvido em Python com o uso da biblioteca *Streamlit*.
 
 O projeto dashboard de análise descritiva de times de futebol foi desenvolvido totalmente na linguagem Python, sendo possível rodar enviando o comando *streamlit run 1_🏠_home.py* no terminal.

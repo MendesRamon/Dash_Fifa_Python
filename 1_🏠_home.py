@@ -3,6 +3,8 @@ import streamlit as st
 import webbrowser
 import pandas as pd
 from datetime import datetime 
+import openai
+
 
 #carrega os dados ao abrir a página home
 if "data" not in st.session_state:

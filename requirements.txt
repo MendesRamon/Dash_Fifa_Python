@@ -1,2 +1,4 @@
-streamilit
+streamlit
 openai
+webbrowser
+datetime

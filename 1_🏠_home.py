@@ -19,7 +19,7 @@ st.markdown("# FIFA23 OFFICIAL DATASET! ⚽️")
 st.sidebar.markdown("Desenvolvido por [Ramon Mendes](https://github.com/MendesRamon) no curso da Asimov Academy")
 
 
-btn = st.link_buttonbutton("Acesse os dados no Kaggle", 
+btn = st.link_button("Acesse os dados no Kaggle", 
                            "https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data"
                            ) #botão para acessar os dados do site
 st.markdown(
